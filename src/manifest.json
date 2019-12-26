@@ -1,0 +1,17 @@
+{
+    "name": "Color-Clicker",
+    "short_name": "Color-Click",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "https://akbarzafar.github.io/color-clicker/",
+    "description": "Click for Colors!",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "https://imgur.com/gallery/Us49osg",
+            "sizes": "469x469"
+        }
+    ]
+}
