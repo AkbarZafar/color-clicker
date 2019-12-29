@@ -22,7 +22,7 @@ class Main extends React.Component {
 
   render() {
     return (
-      <div className="button" onClick={() => this.color_changer()} style={{ backgroundColor: this.state.color }}>
+      <div className="button" onClick={() => this.color_changer()} style={{ backgroundColor: this.state.color}}>
         {this.state.color}
         <GiSpeaker onClick={(e) => { e.stopPropagation(); this.speaker(); }} stroke="black" strokeWidth="4" />
       </div>

@@ -1,14 +1,13 @@
+
+
 .button{
-  min-width: fit-content;
-  min-height: fit-content;
+  min-height: 30px;
   width: 100vw;
-  min-width: fit-content;
-  min-height: fit-content;
   height: 100vh;
   color: white;
-  text-shadow: black 0px 10px 20px;
+  text-shadow: black 0px 25vh 30vh;
   text-align: center;
-  font-size: 5em;
+  font-size: 20vh;
   font-family: 'Courier New', Courier, monospace;
   vertical-align: middle;
   line-height: 100vh;
