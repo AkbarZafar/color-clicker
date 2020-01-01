@@ -8,5 +8,11 @@
   text-shadow: black 0px 10px 20px;
   font-size: 10vw;
   font-family: 'Courier New', Courier, monospace;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
+p{
+  margin: 0px;
 }
