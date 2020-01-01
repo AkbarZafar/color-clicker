@@ -7,7 +7,7 @@ import { colors } from "./colors.json";
 class Main extends React.Component {
   constructor() {
     super();
-    this.state = { color: "BLUE" };
+    this.state = { color: "LightGoldenRodYellow" };
   }
 
   color_changer() {
